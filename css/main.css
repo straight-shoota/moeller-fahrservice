@@ -316,13 +316,9 @@ h1 {
     color: #222;
 }
 .wichtig > a {
-    padding: .3em;
-    max-width: 20em;
     display: block;
 }
 .wichtig > a:hover {
-    //margin: .5em 0;
-    background: #46d;
 }
 
 footer {
